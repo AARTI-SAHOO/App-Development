@@ -1,0 +1,23 @@
+*{
+    color: azure;
+    background:black url("https://i.pinimg.com/736x/95/fb/00/95fb006daba956ee169422481d788825.jpg");
+    text-align: center;
+}
+h2 {
+    border: 5px inset lavender;
+    border-radius: 5px;
+    font-size: 36px;
+}
+h3 {
+    font-style: bold;
+    font-family: "Audiowide", sans-serif;
+    text-shadow: 2px 2px 5px blue;
+}
+#p1,#p3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+#p2 {
+    font-size: 16px;
+}
